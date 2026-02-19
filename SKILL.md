@@ -3,8 +3,9 @@ name: decision-type-classifier
 description: Classify decisions by reversibility (Type 1 vs Type 2) and recommend the appropriate decision-making process. Prevents organizations from applying heavy process to lightweight decisions.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3787
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - decision-type-classifier
 - structure
